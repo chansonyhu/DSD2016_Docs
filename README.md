@@ -10,7 +10,13 @@
   该文件是项目计划，组员都可以修改，修改完成填写第一页的Revise History表格。  
   
 **4. DSD2016_WeeklyData_JLU-EMPIRE**  
-  该目录下存放各成员的工作量统计表，每人每周需要更新一次。  
+  该目录下存放各成员的工作量统计表，每人每周需要更新一次。   
+  
+**5. DSD2016_SRS_JLU-EMPIRE**  
+  需求规格说明书。由Analyst负责维护。  
+  
+**6. DSD2016_CMP_JLU-EMPIRE.docx**  
+  配置管理文档。由Developer负责维护。  
   
   *各文档模板参考页：https://www.assembla.com/spaces/cis422_template/wiki/Project_Plan*  
   *所有组信息wiki页：https://www.assembla.com/spaces/dsd-spring-2016/wiki/DSD_Teams*  
